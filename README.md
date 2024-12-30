@@ -28,5 +28,5 @@
 Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.
 
 ### решение
-
+Вся настройка докера находится в [папке]([)](https://github.com/Chika1703/Replication-and-scaling-1/tree/main/mysql_repl_master_slave)
 ![image 3](png/3.png)
