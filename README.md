@@ -28,5 +28,9 @@
 Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.
 
 ### решение
-Вся настройка докера находится в [папке](https://github.com/Chika1703/Replication-and-scaling-1/tree/main/mysql_repl_master_slave)
-![image 3](png/3.png)
+Вся настройка докера находится в [папке](https://github.com/Chika1703/Replication-and-scaling-1/tree/main/mysql_repl_master_slave). материал был взят с лекции, docker-compose.yml переписал под себя. 
+
+роботоспособность контейнеров: ![image 3](png/3.png)
+
+создание таблицы на master: ![image 1](png/1.png)
+проверка таблицы на slave: ![image 2](png/2.png)
